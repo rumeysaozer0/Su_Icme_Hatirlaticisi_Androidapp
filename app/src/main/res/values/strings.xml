@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Su İçme Hatırlatıcısı</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first">Merhaba, ben Hico senin kişisel su tüketimi arkadaşınım :)</string>
+    <string name="first2">Sana özel su tüketim tavsiyesi verebilmem için bazı kişisel bilgilerini almam gerekiyor, hiç merak etme bu bilgileri sır olarak saklayacağım</string>
+</resources>
